@@ -87,7 +87,7 @@ os.environ['GAODE_API_KEY'] = "your-gaode-key"
 
 ## 📁 文件结构
 
-- `travel_agent.ipynb` – 主 Notebook，包含所有代码和说明。
+- `travel_plan_agent.ipynb` – 主 Notebook，包含所有代码和说明。
 - `README.md` – 本文档。
 
 ## ⚠️ 注意事项
